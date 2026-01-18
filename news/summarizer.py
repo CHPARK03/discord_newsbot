@@ -1,5 +1,7 @@
 from typing import List, Dict
 import logging
+from bs4 import BeautifulSoup
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -31,12 +33,24 @@ class NewsSummarizer:
         """기본 요약 (OpenAI 미사용)"""
         description = article.get('description', '')
         
+        # HTML 태그 제거
+        if description:
+            # BeautifulSoup로 HTML 파싱 및 텍스트 추출
+            soup = BeautifulSoup(description, 'html.parser')
+            description = soup.get_text(separator=' ', strip=True)
+            
+            # 여러 공백을 하나로
+            description = re.sub(r'\s+', ' ', description)
+            
+            # URL 같은 긴 문자열 제거 (50자 이상의 연속 문자)
+            description = re.sub(r'\S{50,}', '', description).strip()
+        
         if description and len(description) > max_length:
             return description[:max_length] + '...'
         elif description:
             return description
         else:
-            return article.get('title', '내용 없음')
+            return '요약 정보 없음'
     
     def _summarize_with_openai(self, article: Dict) -> str:
         """OpenAI를 사용한 요약"""
