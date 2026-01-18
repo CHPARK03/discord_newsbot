@@ -1,0 +1,172 @@
+2026-01-18 20:34:13,869 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:34:13,871 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:34:13,872 - discord.client - INFO - logging in using static token
+2026-01-18 20:34:15,084 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ccaf6d6ec1b7ef2467f223256b86a95f).
+2026-01-18 20:34:17,099 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:34:17,099 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:34:17,099 - __main__ - INFO - ------
+2026-01-18 20:34:17,107 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:34:17,108 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:34:17,108 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:34:17,109 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:34:17,109 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:34:17,109 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:34:17,109 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:36:56,629 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:38:04,277 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:38:36,671 - news.fetcher - INFO - 수집된 뉴스: 6개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:38:37,148 - news.fetcher - INFO - 수집된 뉴스: 4개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:38:37,642 - news.fetcher - INFO - 수집된 뉴스: 10개 (키워드: AI OR artificial intelligence OR machine learning OR deep learning OR ChatGPT OR LLM)
+2026-01-18 20:38:38,119 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: security OR cybersecurity OR hacking OR breach OR vulnerability OR ransomware)
+2026-01-18 20:38:38,589 - news.fetcher - INFO - 수집된 뉴스: 9개 (키워드: security OR cybersecurity OR hacking OR breach OR vulnerability OR ransomware)
+2026-01-18 20:38:39,073 - news.fetcher - INFO - 수집된 뉴스: 2개 (키워드: economy OR business OR market OR stock OR finance OR investment)
+2026-01-18 20:38:39,552 - news.fetcher - INFO - 수집된 뉴스: 7개 (키워드: economy OR business OR market OR stock OR finance OR investment)
+2026-01-18 20:38:48,223 - __main__ - INFO - 수동 뉴스 요청 처리 완료 (요청자: sasohae)
+2026-01-18 20:43:10,168 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:43:10,169 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:43:10,170 - discord.client - INFO - logging in using static token
+2026-01-18 20:43:11,305 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5b7f0c78191e6a674ed8df7a07edcf45).
+2026-01-18 20:43:13,320 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:43:13,320 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:43:13,320 - __main__ - INFO - ------
+2026-01-18 20:43:13,322 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:43:13,322 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:43:13,323 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:43:13,323 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:43:13,323 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:43:13,323 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:43:13,323 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:43:20,352 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:44:51,129 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:44:51,130 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:44:51,130 - discord.client - INFO - logging in using static token
+2026-01-18 20:44:52,265 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d2f5a37f98bc3348e5c8975f585f9ce8).
+2026-01-18 20:44:54,288 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:44:54,289 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:44:54,289 - __main__ - INFO - ------
+2026-01-18 20:44:54,291 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:44:54,291 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:44:54,292 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:44:54,292 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:44:54,292 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:44:54,292 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:44:54,292 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:44:58,797 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: technology OR tech OR IT OR software OR hardware OR startup)
+2026-01-18 20:44:59,300 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: AI OR artificial intelligence OR machine learning OR deep learning OR ChatGPT OR LLM)
+2026-01-18 20:44:59,778 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: security OR cybersecurity OR hacking OR breach OR vulnerability OR ransomware)
+2026-01-18 20:45:00,259 - news.fetcher - INFO - 수집된 뉴스: 2개 (키워드: economy OR business OR market OR stock OR finance OR investment)
+2026-01-18 20:45:02,998 - __main__ - INFO - 수동 뉴스 요청 처리 완료 (요청자: sasohae)
+2026-01-18 20:48:21,912 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:48:21,912 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:48:21,913 - discord.client - INFO - logging in using static token
+2026-01-18 20:48:23,282 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1d172de4dd1237c47e64ed2350e9577d).
+2026-01-18 20:48:25,288 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:48:25,289 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:48:25,289 - __main__ - INFO - ------
+2026-01-18 20:48:25,292 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:48:25,292 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:48:25,292 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:48:25,292 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:48:25,292 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:48:25,292 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:48:25,292 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:48:48,950 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: IT OR 정보기술 OR 테크 OR 스타트업 OR 소프트웨어)
+2026-01-18 20:49:00,141 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: IT)
+2026-01-18 20:49:00,197 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 정보기술)
+2026-01-18 20:49:00,253 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 테크)
+2026-01-18 20:49:00,720 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: IT OR 정보기술 OR 테크 OR 스타트업 OR 소프트웨어)
+2026-01-18 20:49:00,772 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: AI)
+2026-01-18 20:49:00,828 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 인공지능)
+2026-01-18 20:49:00,881 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 머신러닝)
+2026-01-18 20:49:01,371 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: AI OR 인공지능 OR 머신러닝 OR 딥러닝 OR ChatGPT)
+2026-01-18 20:49:01,425 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 보안)
+2026-01-18 20:49:01,479 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 정보보안)
+2026-01-18 20:49:01,537 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 사이버보안)
+2026-01-18 20:49:02,015 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: 보안 OR 정보보안 OR 사이버보안 OR 해킹 OR 랜섬웨어)
+2026-01-18 20:49:02,066 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 경제)
+2026-01-18 20:49:02,120 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 주식)
+2026-01-18 20:49:02,169 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 증시)
+2026-01-18 20:49:02,646 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: 경제 OR 주식 OR 증시 OR 금융 OR 투자)
+2026-01-18 20:49:05,258 - __main__ - INFO - 수동 뉴스 요청 처리 완료 (요청자: sasohae)
+2026-01-18 20:51:32,499 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:51:32,499 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:51:32,500 - discord.client - INFO - logging in using static token
+2026-01-18 20:51:34,141 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 836af1bf430c1df7702aa9434e1593bb).
+2026-01-18 20:51:36,146 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:51:36,146 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:51:36,146 - __main__ - INFO - ------
+2026-01-18 20:51:36,148 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:51:36,149 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:51:36,149 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:51:36,149 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:51:36,149 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:51:36,149 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:51:36,149 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:51:43,516 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: IT기업)
+2026-01-18 20:51:43,564 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 테크기업)
+2026-01-18 20:51:43,612 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 소프트웨어)
+2026-01-18 20:51:44,109 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: IT기업 OR 테크기업 OR 소프트웨어 OR 클라우드 OR 반도체)
+2026-01-18 20:51:44,153 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 인공지능)
+2026-01-18 20:51:44,197 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: ChatGPT)
+2026-01-18 20:51:44,243 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 머신러닝)
+2026-01-18 20:51:44,732 - news.fetcher - INFO - 수집된 뉴스: 6개 (키워드: 인공지능 OR ChatGPT OR 머신러닝 OR 생성형AI OR LLM)
+2026-01-18 20:51:44,779 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 사이버보안)
+2026-01-18 20:51:44,830 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 해킹)
+2026-01-18 20:51:44,880 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 랜섬웨어)
+2026-01-18 20:51:45,346 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: 사이버보안 OR 해킹 OR 랜섬웨어 OR 개인정보유출 OR 정보보호)
+2026-01-18 20:51:45,392 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 증시)
+2026-01-18 20:51:45,439 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 코스피)
+2026-01-18 20:51:45,487 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 환율)
+2026-01-18 20:51:45,960 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: 증시 OR 코스피 OR 환율 OR 금리 OR 부동산)
+2026-01-18 20:51:52,269 - __main__ - INFO - 수동 뉴스 요청 처리 완료 (요청자: sasohae)
+2026-01-18 20:54:17,227 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-18 20:54:17,228 - __main__ - INFO - 봇을 시작합니다...
+2026-01-18 20:54:17,229 - discord.client - INFO - logging in using static token
+2026-01-18 20:54:18,320 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8195bbde945c7ee1b29d6bb20dc2143d).
+2026-01-18 20:54:20,329 - __main__ - INFO - NEWS_BOT#3383 봇이 로그인했습니다!
+2026-01-18 20:54:20,329 - __main__ - INFO - 봇 ID: 1462407082316923001
+2026-01-18 20:54:20,329 - __main__ - INFO - ------
+2026-01-18 20:54:20,331 - apscheduler.scheduler - INFO - Scheduler started
+2026-01-18 20:54:20,331 - utils.scheduler - INFO - 스케줄러가 시작되었습니다.
+2026-01-18 20:54:20,332 - apscheduler.scheduler - INFO - Added job "일일 뉴스 전송" to job store "default"
+2026-01-18 20:54:20,332 - utils.scheduler - INFO - 매일 09:00에 뉴스 전송이 스케줄되었습니다.
+2026-01-18 20:54:20,332 - utils.scheduler - INFO - === 스케줄된 작업 목록 ===
+2026-01-18 20:54:20,332 - utils.scheduler - INFO - - 일일 뉴스 전송 (ID: daily_news): 2026-01-19 09:00:00+09:00
+2026-01-18 20:54:20,332 - __main__ - INFO - 봇이 완전히 준비되었습니다!
+2026-01-18 20:54:27,726 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: IT기업)
+2026-01-18 20:54:27,779 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 테크기업)
+2026-01-18 20:54:27,834 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 소프트웨어)
+2026-01-18 20:54:28,191 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: IT기업)
+2026-01-18 20:54:28,524 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 테크기업)
+2026-01-18 20:54:28,851 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 소프트웨어)
+2026-01-18 20:54:29,951 - news.fetcher - INFO - 구글 RSS 수집: 5개 (키워드: IT기업)
+2026-01-18 20:54:30,450 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: IT기업 OR 테크기업 OR 소프트웨어 OR 클라우드 OR 반도체)
+2026-01-18 20:54:30,451 - news.fetcher - INFO - IT 뉴스 수집 완료: 5개
+2026-01-18 20:54:30,505 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 인공지능)
+2026-01-18 20:54:30,559 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: ChatGPT)
+2026-01-18 20:54:30,613 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 머신러닝)
+2026-01-18 20:54:30,984 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 인공지능)
+2026-01-18 20:54:31,278 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: ChatGPT)
+2026-01-18 20:54:31,561 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 머신러닝)
+2026-01-18 20:54:32,451 - news.fetcher - INFO - 구글 RSS 수집: 5개 (키워드: 인공지능)
+2026-01-18 20:54:32,941 - news.fetcher - INFO - 수집된 뉴스: 5개 (키워드: 인공지능 OR ChatGPT OR 머신러닝 OR 생성형AI OR LLM)
+2026-01-18 20:54:32,942 - news.fetcher - INFO - AI 뉴스 수집 완료: 5개
+2026-01-18 20:54:33,002 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 사이버보안)
+2026-01-18 20:54:33,064 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 해킹)
+2026-01-18 20:54:33,118 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 랜섬웨어)
+2026-01-18 20:54:33,415 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 사이버보안)
+2026-01-18 20:54:33,722 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 해킹)
+2026-01-18 20:54:33,967 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 랜섬웨어)
+2026-01-18 20:54:34,841 - news.fetcher - INFO - 구글 RSS 수집: 5개 (키워드: 사이버보안)
+2026-01-18 20:54:35,334 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: 사이버보안 OR 해킹 OR 랜섬웨어 OR 개인정보유출 OR 정보보호)
+2026-01-18 20:54:35,335 - news.fetcher - INFO - 정보보안 뉴스 수집 완료: 5개
+2026-01-18 20:54:35,391 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 증시)
+2026-01-18 20:54:35,444 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 코스피)
+2026-01-18 20:54:35,497 - news.fetcher - INFO - 네이버 RSS 수집: 0개 (키워드: 환율)
+2026-01-18 20:54:35,818 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 증시)
+2026-01-18 20:54:36,137 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 코스피)
+2026-01-18 20:54:36,433 - news.fetcher - INFO - 다음 RSS 수집: 0개 (키워드: 환율)
+2026-01-18 20:54:37,300 - news.fetcher - INFO - 구글 RSS 수집: 5개 (키워드: 증시)
+2026-01-18 20:54:38,320 - news.fetcher - INFO - 수집된 뉴스: 1개 (키워드: 증시 OR 코스피 OR 환율 OR 금리 OR 부동산)
+2026-01-18 20:54:38,321 - news.fetcher - INFO - 경제 뉴스 수집 완료: 5개
+2026-01-18 20:54:46,521 - __main__ - INFO - 수동 뉴스 요청 처리 완료 (요청자: sasohae)
